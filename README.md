@@ -2,7 +2,7 @@
 마크다운 설명
 
 ### 7. 하이퍼 링크
-[e클래스]([http://](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
+[e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
 
 ### 6. 가로라인
 ---
